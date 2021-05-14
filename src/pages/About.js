@@ -12,10 +12,12 @@ const About = () => {
             <p>
                 Hello, my name is Suleman. Currently beginning in React,
                 I wanted to make a little project to learn more about it and understand better the way it works.
+                <br></br>
+                So I made this project followinng a video on Youtube :)
             </p>
             <br />
 
-            <p>
+            {/* <p>
                 So I made this project following a video on Youtube made by (From Scratch - Développement Web)
                 a french youtuber. I highly recommend those who begins in React like me to watch his videos and do some project like I did,
                 because he explains very well and help us understanding better how everything in React works.
@@ -30,7 +32,7 @@ const About = () => {
             <br />
             <p>
                 Thanks for reading, Take care :)
-                </p>
+                </p> */}
         </div>
     );
 };
